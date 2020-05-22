@@ -17,6 +17,9 @@ public class myAppTester {
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a number");
+		/*
+		 * Git now is on branch b1
+		 */
 		int n = input.nextInt();
 		int result = n*n;
 		
