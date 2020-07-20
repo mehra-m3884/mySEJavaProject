@@ -16,6 +16,7 @@ public class myAppTester {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(System.in);
+
 		
 		System.out.println("Hello, Software Engg world");
 		System.out.println("Enter a number");
@@ -24,6 +25,10 @@ public class myAppTester {
 		
 		System.out.println("The square of the number is");
 		System.out.println(result);
+
+	
+
+
 	}
 
 }
